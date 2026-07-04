@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chaitanya Reddy Remata</h1>
+<h1 align="center">Hi 👋, I'm Chaithanya Reddy Remata</h1>
 
 <h3 align="center">
 Full Stack Developer • Java Developer • MERN Stack • DSA Enthusiast
